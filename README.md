@@ -8,4 +8,4 @@ This report was generated using Power BI Desktop and contains 5 pages:
 4. "Extra Changes" page, here we compare the churn rate of customers with limited and unlimited data consumption plans.
 5. "Further insights" page, some states have higher churn rates than others and this might be to competitors in this state.
 
-The Power BI report with the screenshots of the pages is found above.
+This repository contains the Power BI report, the dataset used and screenshots of the 5 pages in the report.
